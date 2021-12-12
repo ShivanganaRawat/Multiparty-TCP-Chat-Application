@@ -1,6 +1,6 @@
 # Multiparty-TCP-Chat-Application
 
-Multiparty TCP Chat Application in C++. It uses the concepts of Socket Programming and Threading. The send and the receive need to be performed asynchronously by the client.
+Multiparty TCP Chat Application in C++. It uses the concepts of Socket Programming and Threading.
 
 ## Screenshot
 <img src="example.png" alt="example" width="700"/>
